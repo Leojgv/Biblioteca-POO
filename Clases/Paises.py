@@ -6,4 +6,3 @@ class Paises():
         self.codigo_iso3_pais = codigo_iso3_pais
         self.nombre_pais = nombre_pais
         self.gentilicio_pais = gentilicio_pais
-
