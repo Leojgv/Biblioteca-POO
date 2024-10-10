@@ -11,3 +11,4 @@ class Libro(autor):
             return True
         else:
             return False
+        
